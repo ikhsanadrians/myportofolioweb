@@ -148,3 +148,8 @@ align-self: center;
     
    
 }
+
+
+#nightmode  span {
+    cursor: pointer;
+}
